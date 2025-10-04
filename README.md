@@ -147,16 +147,6 @@ veo3-video-generator/
 └── dist/                   # Build output
 ```
 
-## API Endpoints
-
-Ứng dụng sử dụng các API endpoints sau:
-
-- `POST /generate-video` - Tạo video từ prompt
-- `GET /video-status` - Kiểm tra trạng thái video
-- `GET /user-info` - Lấy thông tin user và credit
-- `POST /verify-license` - Xác thực license
-- `POST /activate-license` - Kích hoạt license
-- `GET /check-updates` - Kiểm tra cập nhật
 
 ## Xử lý sự cố
 
@@ -187,15 +177,14 @@ veo3-video-generator/
 
 ## Hỗ trợ
 
-- Email: support@veo3labs.com
-- Website: https://veo3labs.com
-- Documentation: https://veo3labs.com/docs
+- Email: ngockushinfo@gmail.com
+- Website: https://suncodevn.com
 
 ## License
 
-Copyright © 2025 VEO 3 Labs. All rights reserved.
+Copyright © 2025 SUNCODEVN. All rights reserved.
 
-Ứng dụng này yêu cầu license hợp lệ để sử dụng. Vui lòng liên hệ để mua license tại https://veo3labs.com/license
+Ứng dụng này yêu cầu license hợp lệ để sử dụng. Vui lòng liên hệ để mua license tại https://suncodevn.com
 
 ## Changelog
 
@@ -208,4 +197,4 @@ Copyright © 2025 VEO 3 Labs. All rights reserved.
 
 ---
 
-Được phát triển với ❤️ bởi VEO 3 Labs
+Được phát triển với ❤️ bởi SUNCODEVN
