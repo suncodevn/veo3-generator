@@ -73,7 +73,7 @@
 ### Cài đặt từ source
 ```bash
 # Clone repository
-git clone https://github.com/veo3labs/video-generator.git
+git clone https://github.com/suncodevn/veo3-generator.git
 cd video-generator
 
 # Cài đặt dependencies
@@ -87,7 +87,7 @@ npm run build
 ```
 
 ### Cài đặt từ file binary
-1. Tải file installer từ [Releases](https://github.com/veo3labs/video-generator/releases)
+1. Tải file installer từ [Releases](https://github.com/suncodevn/veo3-generator/releases)
 2. Chạy file installer
 3. Làm theo hướng dẫn cài đặt
 
